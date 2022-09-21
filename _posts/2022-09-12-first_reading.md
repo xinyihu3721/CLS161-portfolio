@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Week 1 Reading Reflection"
+title:  "The Humanitie"
 date:   "2022-09-12"
 categories: jekyll update
 ---
-## The Humanities; chapter1- what are the humanities ##
+## Chapter 1 - *What are the humanities?* ##
 
 Reading for this week is the introductory chapter of the book “The Humanities”. In this chapter, the author introduced the definition of humanities; how it differs from social sciences, and the importance of humanities.  
 
