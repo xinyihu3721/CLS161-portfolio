@@ -4,7 +4,7 @@ title:  "Introduction to the Digital Humanities "
 date:   "2022-09-21"
 categories: jekyll update
 ---
-## Chapter 2-3 ##
+## Chapter 1-2 ##
 
 In Chapter 1, the author tries to help readers to first understand what digital humanities is and its relationship to classical humanity studies. The book defines humanities as the study of understanding human thoughts and cultures via analyzing artifacts, such as literature and art. In the study of digital humanities, we used various newly developed digital technology and methods; thus, it is essential to consider how those new methods influence the research area and the definition of digital humanities research. We also need to question whether digital humanities draw scholar’s attention away from the traditional framework of the study.  
 
