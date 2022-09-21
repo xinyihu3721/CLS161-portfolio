@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Humanitie"
+title:  "The Humanities"
 date:   "2022-09-12"
 categories: jekyll update
 ---
