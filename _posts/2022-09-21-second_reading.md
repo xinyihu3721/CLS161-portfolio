@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introduction to the Digital Humanities "
+title:  "Introduction to the Digital Humanities"
 date:   "2022-09-21"
 categories: jekyll update
 ---
