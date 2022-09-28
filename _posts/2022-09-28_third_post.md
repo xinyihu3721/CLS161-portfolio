@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "The Decline and Fall of the Roman Empire"
-"
 date:   "2022-09-28"
 categories: jekyll update
 ---
@@ -14,4 +13,4 @@ If there was a system similar to digital humanity existed during Gibbon’s peri
 
 Besides the lack of comprehensiveness in this book, some people also criticized the invalid arguments that Gibbon provided to explain the fall of the Roman empire. Gibbon relates the physical fall of the empire with people's moral decadence, which links to the rise of Christianity, and many present scholars do not agree with the argument. Gibbon argues the rise of Christianity limited the freedom of intellect and much of the wealth had been used in secular events, which used to promote religion activities.  
 
-Digitial humanities bring unprecedent change to the classical humanities analysis method and allowed scholars to have a more overarching understanding of history. As we learn more from history, we might identify more factors that correlate to an historical event or change. But how do we decide which is the key factor if it exist? 
+Digital humanities brings unprecedent changes to the classical humanities analysis method and allowed scholars to have a more overarching understanding of history. As we learn more from history, we might identify more factors that correlate to an historical event or change. But how do we decide which is the key factor if it exists? 
