@@ -4,7 +4,7 @@ title:  "As We May Think"
 date:   "2022-09-29"
 categories: jekyll update
 ---
-### [As We May Think](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/) ###
+## [As We May Think](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/) ##
 
 This paper addresses how the development of technology promotes the development of science and our understanding of nature. The paper starts with the opening argument of how scientific specialization boosts the depth of knowledge in each specialized discipline while the bridge between disciplines is superficial and makes some discoveries and research results impenetrable to the layperson and undermining the value of some research. This argument suggests the importance of communication between disciplines and the influence of technology development on communication and data storage.  
 
