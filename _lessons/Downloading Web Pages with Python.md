@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Downloading Web Pages with Python
-description: This lesson teaches how to use python download and extra data---
+description: This lesson teaches how to use python download and extra data
 ---
 
 ## Source ##
