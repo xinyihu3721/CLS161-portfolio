@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Chronicling America API Assignment
-description: Learn about APi
+description: Learn about API
 ---
 # Chronicling America API Assignment
 In this assignment, you are tasked with:
