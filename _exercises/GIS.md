@@ -1,7 +1,7 @@
 ---
 layout: page
-title: NER Assignment
-description: Learn about NER
+title: GIS Assignment
+description: Learn about GIS
 ---
 
 # GIS Assignment
