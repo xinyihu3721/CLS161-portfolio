@@ -3,7 +3,21 @@ layout: page
 title: Final Project
 permalink: /final-project/
 ---
-# 
+## Project Inspiration
+This project is inspired by the book “The Internet is for Cats,” which explains how digital images of animals have shaped our digital life. The book introduced the concept of the imbalanced relationship between the viewer and cute objects, animals, and people. Some argue that our predilection towards cuteness could be a “specific type of relationship between consumer object and the weak objects predicated on feelings of care and empathy”. We inherently view cute objects as weak, and viewers of cute objects are the ones in power. On the contrary, scholars such as Simon May argue that cuteness may function as “subversive trickery”. To be more specific cuteness may “play with mocks and ironize the value we attach to power – as well as our assumption about who has power and who doesn’t?” Thus, the goal of this research is to study how images of animals are potentially used as a social practice, correlate with people’s emotions, and change human perception.  
+
+I will use Twitter posts with various hashtags for different animal species. All the data will be extracted through python and Twitter API. I choose to use Twitter because of its data accessibility, data abundance, and popularity. Compared to other popular and trending social media applications such as Tiktok, Tweets involve more text and are better for textual analysis. I plan to use four hashtags related to different animal species, including cat, dog, and snakes. For each tag, 1000 tweets were collected using the tweepy function in python. Here is the link to its document page https://docs.tweepy.org/en/stable/ . I am going to follow the steps stated in the following two videos to gather data
+-	 How to get TWEETS by Python | Twitter API 2022 
+-	 Get TWEETS by User and Hashtag with Python | Twitter API 2022 
+After the information is gathered from the API, all the text information will be processed and cleaned using the python libraries.   
+
+## Goals:
+The goal of this project is to understand:
+
+1) how sentimental scores vary across different animal tweets
+
+2) the sentimental relationship between emojis and textual message
+
 ## Data Gathering
 I gathered data from twitter using tweepy API in Python. I gathered 1000 tweets from each of the following hashtags:
 1. #dag
@@ -153,12 +167,6 @@ english_df = df[df["language"] == 'en']
 english_df[:30]
 english_df.to_csv(f'{animal}_processed.csv')
 ```
-
-## Goals:
-The goal of this project is to understand 
-1) how sentimental scores vary across different animal tweets
-
-2) the sentimental relationship between emojis and textual message
 
 ## Import Data
 
